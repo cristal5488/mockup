@@ -1,0 +1,202 @@
+.last-section {
+  background-color: #2C3135;
+  color: gray;
+}
+.rights {
+  padding-top: 3em;
+}
+.green-color {
+  color: #66ff33;
+}
+.right-pics {
+  padding-top: 8em;
+  display: flex;
+  text-align: center;
+  padding-left: 7em;
+  align-items: flex-end;
+
+}
+.first-section {
+  background-image: -webkit-linear-gradient(top right, #FFFFFF 0%, #8D98A8 100%);
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  padding: 15px;
+}
+.first-section img {
+  margin: 0 auto;
+}
+
+.first-section i {
+  color: white;
+}
+
+.second-left {
+height: 400px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-left: 7em;
+padding-top: 10em;
+color: white;
+
+}
+/*.second-right {
+position:relative;
+}*/
+.second-right img {
+  display: grid;
+  float: right;
+}
+.second-left h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.second-left h2 {
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.btn-group {
+  padding-top: 20px;
+}
+
+.cristal-button {
+  height: 57px;
+  padding-top: 1em;
+
+}
+
+.price-button p {
+  font-size: 10px;
+  color: black;
+  text-decoration: line-through;
+  height: 0.5px;
+}
+
+.third-section {
+  margin: 0;
+}
+.left-pic p {
+  font-weight: bold;
+  font-size: 15px;
+}
+.left-pic p2 {
+  color: gray;
+}
+.middle-pic p {
+  font-weight: bold;
+  font-size: 15px;
+}
+.right-pic p {
+  font-weight: bold;
+  font-size: 15px
+}
+.middle-pic p2 {
+  color: gray;
+}
+.right-pic p2 {
+color: gray;
+}
+.price-left {
+  float: right;
+  position: relative;
+  bottom: 20px;
+}
+
+.price-middle {
+  float: right;
+  position: relative;
+  bottom: 20px;
+}
+.free {
+  float: right;
+  position: relative;
+  bottom: 20px;
+}
+.fourth-section h1 {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 35px;
+  font-family: sans-serif;
+
+}
+.fourth-section p {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 25px;
+  text-emphasis-color: 212F3D;
+  color: gray;
+}
+.fourth-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.fourth-section button {
+
+}
+.fifth-section {
+  background-color: #2C3135;
+  padding-bottom: 10em;
+}
+
+.fifth-section h1 {
+  color: white;
+  font-weight: lighter;
+  text-align: center;
+  padding-top: 2em;
+}
+.fifth-section p {
+  color: white;
+  font-weight: 200;
+  text-align: center;
+  color: gray;
+  font-size: 20px
+
+}
+.fifth-section button {
+  margin: 10;
+}
+.sixth-section h1 {
+  color: white;
+  font-weight: lighter;
+  font-size: 20px;
+  padding-top: 5em;
+  padding-left: 4em;
+}
+.sixth-section p {
+  color: gray;
+  /*padding-left: 5em;*/
+}
+.dribble-button {
+  text-align: center;
+}
+.get-button {
+  text-align: left;
+
+}
+.email-input input {
+  text-align: left;
+  background-color:  #2C3135;
+  color: gray;
+  float: left;
+  border-color: gray;
+  padding-left: 2em;
+
+}
+.get-button button {
+float: left;
+}
+.sixth-section {
+  border: 1px solid gray;
+  padding-bottom: 5em;
+  background-color: #2C3135;
+
+}
+.second-section {
+  border: 1px solid white
+}
+.mark {
+  background: transparent;
+}
