@@ -126,7 +126,7 @@ color: gray;
   text-align: center;
   font-weight: lighter;
   font-size: 25px;
-  text-emphasis-color: 212F3D;
+  text-emphasis-color: #212F3D;
   color: gray;
 }
 .fourth-section {
@@ -156,7 +156,7 @@ color: gray;
 
 }
 .fifth-section button {
-  margin: 10;
+  margin: 10px;
 }
 .sixth-section h1 {
   color: white;
